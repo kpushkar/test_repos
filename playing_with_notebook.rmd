@@ -20,3 +20,6 @@ p <- ggplot(data = cars, aes(x=speed,y=dist))+geom_point() + geom_smooth()
 p
 ```
 
+Next run will be with htmlwidgets
+
+[To_UPDATE]: 21 Jan 2017
